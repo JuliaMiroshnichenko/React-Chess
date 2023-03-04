@@ -1,10 +1,10 @@
 
 
-## Шахматы / Chess
+# Шахматы / Chess
 
 ---
 
-# Tools: 
+## Tools: 
 
 * React
 * TypeScript
