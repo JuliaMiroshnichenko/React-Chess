@@ -13,5 +13,5 @@
 
 ## Инструкция по запуску : 
 
-npm install
-npm start
+1_ npm install
+2_ npm start
