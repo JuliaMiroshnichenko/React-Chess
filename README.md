@@ -1,2 +1,10 @@
-# Chess
-React &amp; Typescipt-Chess
+
+
+## Шахматы / Chess
+
+---
+
+# Tools: 
+
+* React
+* TypeScript
