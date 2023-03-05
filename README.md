@@ -1,6 +1,6 @@
 
 
-# Шахматы / Chess
+# Шахматы / Chess ![Шахматная доска](/images/picture.jpg)
 
 ---
 
