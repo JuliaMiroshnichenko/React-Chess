@@ -1,6 +1,6 @@
 
 
-# Шахматы / Chess ![](/assets/board.jpg)
+## Шахматы / Chess ![](/assets/board.jpg)
 
 ---
 
