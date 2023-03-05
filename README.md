@@ -1,6 +1,6 @@
 
 
-# Шахматы / Chess ![Шахматная доска](/images/picture.jpg)
+# Шахматы / Chess ![](/images/picture.jpg)
 
 ---
 
