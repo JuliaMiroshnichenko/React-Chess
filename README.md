@@ -1,11 +1,11 @@
 
-## На доработке!
+## На доработке! Deadline-срок: ~ 14 марта
 
 ## Шахматы / Chess ![](/assets/board.jpg)
 
 ---
 
-### Инструменты / Tools : 
+Стек / Stack: 
 
 * React
 * TypeScript
