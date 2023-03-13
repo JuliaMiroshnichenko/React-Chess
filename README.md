@@ -5,7 +5,7 @@
 
 ---
 
-Стек / Stack: 
+### Стек / Stack: 
 
 * React
 * TypeScript
